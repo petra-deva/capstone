@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "99388443910",
+    "firebase_url": "https://qwiklabs-gcp-03-e1473d8b-4f6b2-default-rtdb.firebaseio.com",
+    "project_id": "qwiklabs-gcp-03-e1473d8b-4f6b2",
+    "storage_bucket": "qwiklabs-gcp-03-e1473d8b-4f6b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99388443910:android:8942a35f0ed93018636287",
+        "android_client_info": {
+          "package_name": "com.example.admindeva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99388443910-ibbpqhq56bm66fr8vjko35416rkrnf8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChrjSkxY6PryQ5nXGaZb4mNQJ8ea89eCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99388443910-2nsh5q33oofrvt2duaugk8dl6a2l2fh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99388443910:android:d6be015b038a5505636287",
+        "android_client_info": {
+          "package_name": "com.shiro.capstoneproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99388443910-ibbpqhq56bm66fr8vjko35416rkrnf8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChrjSkxY6PryQ5nXGaZb4mNQJ8ea89eCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99388443910-2nsh5q33oofrvt2duaugk8dl6a2l2fh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

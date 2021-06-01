@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fisherman App</string>
+    <string name="login">Login</string>
+    <string name="register">register</string>
+    <string name="form_input">Form Input</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="no_telepon">No Telepon</string>
+    <string name="simpan">Simpan</string>
+    <string name="datadiri">DataDiri</string>
+    <string name="kembali">kembali</string>
+    <string name="jenis_tangkapan">Jenis Tangkapan</string>
+    <string name="logout">LogOut</string>
+    <string name="stok">Stok</string>
+    <string name="tambahstok">tambahStok</string>
+    <string name="edit">Update</string>
+</resources>
